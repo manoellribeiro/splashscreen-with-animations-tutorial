@@ -1,16 +1,13 @@
-# flare_tutorial
+# Splash Screen com animação Flare.
 
-A new Flutter application.
+Esse aplicativo foi desenvolvido com Flutter para exemplicar o seguinte artigo no [Medium](https://medium.com/flutter-comunidade-br/splash-screen-com-animação-no-flutter-f7bd6e84cf5a)
 
-## Getting Started
+## Packages utilizados
 
-This project is a starting point for a Flutter application.
+-[splashscreen](https://pub.dev/packages/splashscreen)
+-[flare_flutter](https://pub.dev/packages/flare_flutter)
 
-A few resources to get you started if this is your first Flutter project:
+##Resultado final
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
