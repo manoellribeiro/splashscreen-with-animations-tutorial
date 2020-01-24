@@ -6,7 +6,7 @@
 ## About this Project
 
 This is a Flutter app developed to exemplify how to implement a Splash Screen with Flare animations using Flutter.
-You cand find the medium post with the tutorial step by step [here.](https://medium.com/flutter-comunidade-br/splash-screen-com-animação-no-flutter-f7bd6e84cf5a)
+You can find the medium post with the tutorial step by step [here.](https://medium.com/flutter-comunidade-br/splash-screen-com-animação-no-flutter-f7bd6e84cf5a)
 
 ## Why?
 
